@@ -869,8 +869,8 @@ body {
 
 .calculator-form {
   background: var(--c-light);
-  padding: 30px 13px 40px 16px;
-  width: 440px;
+  padding: 30px 10px 40px 10px;
+  width: 300px;
 }
 
 .calculator-form-title {
